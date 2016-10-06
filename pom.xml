@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.peerstack</groupId>
+  <artifactId>peerstack-core</artifactId>
+  <version>1</version>
+</project>
