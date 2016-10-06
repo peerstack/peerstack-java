@@ -1,6 +1,33 @@
 <project>
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.peerstack</groupId>
-  <artifactId>peerstack-core</artifactId>
-  <version>1</version>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.github.peerstack</groupId>
+   <artifactId>peerstack-core</artifactId>
+   <version>1</version>
+   <packaging>jar</packaging>
+
+   <name>PeerStack Java Core Library</name>
+   <description>Core library of the PeerStack framework</description>
+   <url>https://github.com/peerstack/peerstack-java</url>
+
+   <licenses>
+      <license>
+         <name>Eclipse Public License - v 1.0</name>
+         <url>https://www.eclipse.org/legal/epl-v10.html</url>
+      </license>
+   </licenses>
+
+   <developers>
+      <developer>
+         <name>Brent M. Spell</name>
+         <email>brent@brentspell.com</email>
+         <organization>PeerStack</organization>
+         <organizationUrl>http://peerstack.github.io/</organizationUrl>
+      </developer>
+   </developers>
+
+   <scm>
+      <connection>scm:git:git://github.com/peerstack/peerstack-java.git</connection>
+      <developerConnection>scm:git:ssh://github.com:peerstack/peerstack-java.git</developerConnection>
+      <url>http://github.com/peerstack/peerstack-java/tree/master</url>
+   </scm>
 </project>
