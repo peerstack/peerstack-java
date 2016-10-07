@@ -2,7 +2,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.github.peerstack</groupId>
    <artifactId>peerstack-core</artifactId>
-   <version>1</version>
+   <version>0.1.1</version>
    <packaging>jar</packaging>
    <name>PeerStack Java Core Library</name>
    <description>Core library of the PeerStack framework</description>
